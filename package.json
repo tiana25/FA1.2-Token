@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@taquito/signer": "^10.2.1",
+    "@taquito/taquito": "^10.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "typescript": "^4.4.4"
+  }
+}
